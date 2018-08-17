@@ -1,7 +1,7 @@
-# DeepL
-practice practice practice.
+# DeepL  
 
-Based on Blog "Learn how to teach your computer to Chemistry: Free Chemception models with RDKit and Keras" by Esben Jannik Bjerrum who recreated Free "Chemception" models
+for Chemistry
+From Blog "Learn how to teach your computer to Chemistry: Free Chemception models with RDKit and Keras" by Esben Jannik Bjerrum who recreated Free "Chemception" models
 
 From https://www.wildcardconsulting.dk/useful-information/learn-how-to-teach-your-computer-to-see-chemistry-free-chemception-models-with-rdkit-and-keras/
 
